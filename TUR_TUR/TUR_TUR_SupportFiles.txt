@@ -1,4 +1,0 @@
-/LanguageResources/TUR_TUR/LxPostProcessing/
-consonants  
-legal_phonemes.txt
-vowels
